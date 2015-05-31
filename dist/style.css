@@ -1,0 +1,13 @@
+.Vkittens {
+  height:15em;
+  width:15em;
+}
+h2 {
+  background: turquoise;
+  color: black;
+  text-align: center;
+  clear: both;
+  font: Arial
+  margin-bottom: 4em;
+}
+
