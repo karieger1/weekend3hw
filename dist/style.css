@@ -1,9 +1,58 @@
-
+body {
+  margin-left: 1em;
+  margin-right: 1em;
+}
 
 .Vkittens {
   height:15em;
   width:15em;
 }
+
+.album-container {
+  
+}
+
+.navbar-container {
+  border-radius: 4px;
+  box-shadow: 0 0 15px grey(0,0,0,.15);
+  overflow: hidden;
+  width:10em;
+  height: 100%;
+  float: left;
+  background-color: turquoise;
+  list-style: none;
+  margin-top: 2em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    border:4px solid turquoise;
+}
+li {
+      display: block;
+      padding-bottom:.5em;
+    }
+
+.placeholderkitten {
+    width:15em;
+    height:15em;
+}
+
+.individual-kittens {
+  float: right;
+  position: relative;
+  top: 50%;
+  /*transform: translateY(-140%);*/
+
+ 
+}
+
+img {
+  padding:1em;
+}
+
 h2 {
   background: turquoise;
   color: black;
@@ -18,8 +67,9 @@ p {
 }
 
 .photoStyling {
-  border: solid black 2px;
+  
   text-align: center;
-  padding:0;
   margin-bottom: 3em;
 }
+
+
