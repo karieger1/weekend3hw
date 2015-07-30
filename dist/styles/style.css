@@ -4,8 +4,8 @@ body {
 }
 
 .Vkittens {
-  height:15em;
-  width:15em;
+  height:16em;
+  width:16em;
 }
 
 .album-container {
@@ -36,8 +36,8 @@ li {
     }
 
 .placeholderkitten {
-    width:15em;
-    height:15em;
+    width:16em;
+    height:16em;
 }
 
 .individual-kittens {
@@ -70,6 +70,7 @@ p {
   
   text-align: center;
   margin-bottom: 3em;
+  border: 1px solid black ;
 }
 
 
